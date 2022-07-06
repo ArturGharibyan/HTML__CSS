@@ -1,0 +1,294 @@
+
+  body{
+    height: 100%;
+    overflow-x: hidden;
+    margin: 0;
+        
+    }
+
+
+
+*{
+
+padding: 0;
+}
+
+@media (min-width: 200px) {
+    .img {
+      width: 80%;
+    }
+    .img2 {
+        width: 50%;
+        height:180px;
+      }
+  }
+
+  @media screen and (max-width:919px){
+     .a1-13{
+        width: 230px;
+        height: 80px;
+     }
+
+     .a1-14{
+       
+        margin: -30px;
+     }
+  }
+
+  @media screen and (max-width:919px){
+    .a1-14{
+     display: none;
+    }
+  }
+
+  @media screen and (max-width:634px){
+     .a1-8{
+      margin: 33px;
+     }
+  }
+  
+  @media screen and (max-width:579px) {
+    .img3{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 400px;
+        height: 400px;
+    }
+    
+  }
+
+  @media screen and (max-width:399px) {
+    .img3{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 300px;
+        height: 300px;
+    }
+    
+  }
+
+  @media screen and (max-width:319px) {
+    .img3{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 200px;
+        height: 200px;
+    }
+    
+  }
+
+
+  @media screen and (max-width:603px) {
+    .a4{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        height: 650px;
+    }
+    
+  }
+
+  @media screen and (max-width:403px) {
+    .a4{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        height: 1250px;
+    }
+    
+  }
+
+
+  @media screen and (max-width:1203px) {
+    .a4-h2{
+        display: none;
+        
+    }
+    
+  }
+
+
+  @media screen and (max-width:1203px) {
+    .a4>div{
+        margin-top: 30px;
+        
+    }
+    .a4-h2{
+        display: flex;
+        top: 0%;
+    }
+    
+  }
+
+
+  @media screen and (max-width:815px) {
+
+    .a5-2{
+        width: 600px;
+        height: 350px;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .a5-2>img{
+        width: 600px;
+        height: 350px;
+        justify-content: center;
+        align-items: center;
+    }
+
+    
+  }
+
+  @media screen and (max-width:599px) {
+    .a5-2{
+        width: 300px;
+        height: 150px;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .a5-2>img{
+        width: 300px;
+        height: 150px;
+        justify-content: center;
+        align-items: center;
+    }
+  }
+
+  @media screen and (max-width:1022px){
+   .a5{
+    height: 800px;
+   }
+  }
+
+
+  @media screen and (max-width:683px){
+    .a5{
+        width: 100%;
+     height: 700px;
+    }
+
+    .a5-h4{
+    margin-top: 200px;
+    }
+
+   }
+ 
+
+
+  @media screen and (max-width:1122px) {
+    .a6-2{
+        height: 1000px;
+    }
+    .button{
+        
+        align-items: center;
+        left: 0;
+        right: 0;
+        margin: auto;
+    }
+
+  } 
+
+
+  @media screen and (max-width:555px) {
+    
+    .checked{
+        padding: 20px;
+        
+    }
+    .a6-h3>div>h3{
+      padding-left: 35px;
+    }
+    .a6-h1>h1{
+        text-align: center;
+    }
+  } 
+
+  @media screen and (max-width:527px){
+   
+   .img6{
+    height: 300px;
+    
+   } 
+  }
+
+  @media screen and (max-width:376px){
+   
+    .img6{
+     height: 200px;
+     margin-top: 20px;
+     
+    } 
+
+    .aimg{
+        height: 200px;
+    }
+
+    .a6-2{
+        height: 700px;
+    }
+    .p{
+        text-align: center;
+    }
+
+    
+   }
+
+   @media screen and (max-width:403px){
+    .a3{
+        height: 600px;
+    }
+   }
+
+   @media screen and (max-width:290px){
+    .a5-2>img{
+        width: 200px;
+    }
+   }
+
+   @media screen and (max-width:887px){
+       .oval{
+            
+        width: 60px;
+        height:80px ;
+        border: none;
+        margin-top: -5px;
+    }
+
+   }
+
+   @media screen and (max-width:376px){
+    .button{
+        width: 200px;
+        height: 80px;
+    }
+    
+
+   }
+
+   @media screen and (max-width:376px){
+    .a5-4>div{
+        width: 255px;
+        height: 80px;
+    }
+
+   }
+
+   @media screen and (max-width:599px){
+    .a6-end>h5{
+        width: 300px;
+
+    }
+   }
